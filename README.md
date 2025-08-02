@@ -19,9 +19,11 @@ A simple Python tool that checks the health of multiple API endpoints by sending
 ## 📁 Files in this Repo
 
 api-monitoring-script/
+
 ├── nprojectlogging.py # Python script to monitor APIs
 ├── nprojetlogging.log # Sample output log file
 └── README.md # Project documentation (this file)
+
 ## ⚙️ Prerequisites
 
 - Python 3.x
