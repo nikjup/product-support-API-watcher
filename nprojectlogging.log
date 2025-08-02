@@ -1,0 +1,6 @@
+2025-08-02 05:27:32,545 - INFO - https://jsonplaceholder.typicode.com/posts | Status: 200 | Response Time: 0.13s
+2025-08-02 05:27:33,007 - INFO - https://api.github.com | Status: 200 | Response Time: 0.38s
+2025-08-02 05:27:33,023 - ERROR - https://fake-api.example.com | ERROR: HTTPSConnectionPool(host='fake-api.example.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000229A8FC5C10>: Failed to resolve 'fake-api.example.com' ([Errno 11001] getaddrinfo failed)"))
+2025-08-02 06:10:12,512 - INFO - https://api.open-meteo.com/v1/forecast?latitude=35&longitude=139&current_weather=true | Status: 200 | Response Time: 1.25s
+2025-08-02 06:10:12,919 - INFO - https://api.github.com | Status: 200 | Response Time: 0.38s
+2025-08-02 06:10:13,239 - ERROR - https://fake-api.example.com | ERROR: HTTPSConnectionPool(host='fake-api.example.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000220FFC662D0>: Failed to resolve 'fake-api.example.com' ([Errno 11001] getaddrinfo failed)"))
