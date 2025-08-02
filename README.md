@@ -28,9 +28,11 @@ api-monitoring-script/
 - Install the required package:
 
 bash
+
 pip install requests
 
 🧑‍💻 How to Run
+
 Clone this repository or download the files.
 
 Open terminal or command prompt.
@@ -46,6 +48,7 @@ The script will ping each API in the list once.
 Output will be saved in the nprojetlogging.log file.
 
 📌 Use Cases
+
 Uptime monitoring for small APIs
 
 API demo projects or testing tools
@@ -55,6 +58,7 @@ Log-based monitoring for internal services
 Foundation for real-time alerting systems
 
 💡 Ideas for Future Improvement
+
 🔁 Run every X minutes using cron or Task Scheduler
 
 🔔 Add email or Slack alerts on failures
